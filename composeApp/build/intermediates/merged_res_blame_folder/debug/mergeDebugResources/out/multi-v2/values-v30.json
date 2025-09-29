@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.jh.coach.composeApp-mergeDebugResources-63:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/jan.wylegala/.gradle/caches/8.13/transforms/21b6f61b3f7b5b4786e0edf2da74b31b/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
